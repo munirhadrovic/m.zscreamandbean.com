@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a4049f2-4bb8-487b-9eb9-9a70af16c50b" name="Default" comment="" />
+    <list default="true" id="2a4049f2-4bb8-487b-9eb9-9a70af16c50b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/first/img/Untitled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/first/css/location.png" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\m.zscreamandbean.com\first\img\logo.png" afterPath="$PROJECT_DIR$/first/img/logo2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/logo.png" afterPath="$PROJECT_DIR$/first/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/css/jquery.mobile-1.4.5.css" afterPath="$PROJECT_DIR$/first/css/jquery.mobile-1.4.5.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/css/style-mobile.css" afterPath="$PROJECT_DIR$/first/css/style-mobile.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="m.zscreamandbean.com.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -75,11 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style-mobile.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style-mobile.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/first/css/style-mobile.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.310345" vertical-offset="3746" max-vertical-offset="4607">
-              <caret line="255" column="29" selection-start-line="255" selection-start-column="23" selection-end-line="255" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.4773519" vertical-offset="184" max-vertical-offset="4607">
+              <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -95,17 +104,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.mobile-1.4.5.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="jquery.mobile-1.4.5.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first/css/jquery.mobile-1.4.5.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6955056" vertical-offset="19220" max-vertical-offset="80155">
-              <caret line="1167" column="29" selection-start-line="1167" selection-start-column="29" selection-end-line="1167" selection-end-column="29" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="13066" max-vertical-offset="80155">
+              <caret line="796" column="18" selection-start-line="796" selection-start-column="18" selection-end-line="796" selection-end-column="18" />
+              <folding>
+                <element signature="e#40321#41235#2" expanded="true" />
+                <element signature="e#41280#42269#2" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -114,11 +129,11 @@
         <option value="$PROJECT_DIR$/first/settings.php" />
         <option value="$PROJECT_DIR$/first/css/slicknav.css" />
         <option value="$PROJECT_DIR$/first/index.php" />
-        <option value="$PROJECT_DIR$/first/css/style-mobile.css" />
         <option value="$PROJECT_DIR$/css/demo.css" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/first/css/jquery.mobile-1.4.5.css" />
         <option value="$PROJECT_DIR$/first/mail.php" />
+        <option value="$PROJECT_DIR$/first/css/jquery.mobile-1.4.5.css" />
+        <option value="$PROJECT_DIR$/first/css/style-mobile.css" />
       </list>
     </option>
   </component>
@@ -131,7 +146,7 @@
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -210,9 +225,32 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2a4049f2-4bb8-487b-9eb9-9a70af16c50b" name="Default" comment="" />
@@ -334,14 +372,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/first/css/style-mobile.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.310345" vertical-offset="3746" max-vertical-offset="4607">
-          <caret line="255" column="29" selection-start-line="255" selection-start-column="23" selection-end-line="255" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/first/mail.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.25199544" vertical-offset="0" max-vertical-offset="1513">
@@ -352,8 +382,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/first/css/jquery.mobile-1.4.5.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6955056" vertical-offset="19220" max-vertical-offset="80155">
-          <caret line="1167" column="29" selection-start-line="1167" selection-start-column="29" selection-end-line="1167" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="13066" max-vertical-offset="80155">
+          <caret line="796" column="18" selection-start-line="796" selection-start-column="18" selection-end-line="796" selection-end-column="18" />
+          <folding>
+            <element signature="e#40321#41235#2" expanded="true" />
+            <element signature="e#41280#42269#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/css/style-mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4773519" vertical-offset="184" max-vertical-offset="4607">
+          <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
           <folding />
         </state>
       </provider>
